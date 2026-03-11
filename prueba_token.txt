@@ -1,0 +1,5 @@
+# Archivo de prueba
+
+Este archivo fue creado el: 2026-03-11T20:19:21.274Z
+
+Token funciona correctamente ✓
