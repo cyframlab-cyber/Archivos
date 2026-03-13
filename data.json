@@ -1,10 +1,17 @@
 {
-  "timestamp": 1773374826141,
+  "timestamp": 1773374992272,
   "user": "admin",
   "documentos": [
     {
       "id": 1773374766021,
       "titulo": "yyy",
+      "mainCategoria": "documentos",
+      "subCategoria": "documentos_generales",
+      "fecha": "12/3/2026"
+    },
+    {
+      "id": 1773374987966,
+      "titulo": "zzz",
       "mainCategoria": "documentos",
       "subCategoria": "documentos_generales",
       "fecha": "12/3/2026"
