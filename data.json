@@ -1,6 +1,6 @@
 {
-  "timestamp": 1773375044581,
-  "user": "cesar",
+  "timestamp": 1773375469401,
+  "user": "admin",
   "documentos": [
     {
       "id": 1773374766021,
@@ -101,7 +101,7 @@
     "tomHeaderBgColor": "#001100",
     "tomPanelWidth": 500,
     "sidebarBgType": "color",
-    "sidebarBgColor": "#e44949",
+    "sidebarBgColor": "#4953e4",
     "sidebarGradientColor1": "#2c3e50",
     "sidebarGradientColor2": "#34495e",
     "sidebarBgImage": null,
